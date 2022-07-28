@@ -1,6 +1,4 @@
-.carousel-item{
-    height: 80vh;
-}
+
 .carousel-item::before{
     content:"";
     display: block;
@@ -16,6 +14,7 @@
   margin-bottom: 90px;
 
 }
+
 @media only screen and (max-width:1200px){
    
     .carousel-item img{
